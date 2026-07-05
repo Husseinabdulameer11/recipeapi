@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "title": "Fluffy Banana Pancakes",
+    "category": "breakfast",
+    "emoji": "🥞",
+    "time": 20,
+    "difficulty": "easy",
+    "servings": 2,
+    "description": "Soft, sweet pancakes with mashed banana in the batter. No refined sugar needed.",
+    "ingredients": [
+      "1 ripe banana, mashed",
+      "1 cup (125 g) plain flour",
+      "1 tsp baking powder",
+      "1 egg",
+      "3/4 cup (180 ml) milk",
+      "1 tbsp butter, melted",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Whisk the flour, baking powder, and salt in a large bowl.",
+      "In a second bowl, whisk the egg, milk, melted butter, and mashed banana.",
+      "Pour the wet mixture into the dry and stir until just combined. Small lumps are fine.",
+      "Heat a non-stick pan over medium heat and pour in a small ladle of batter.",
+      "Cook until bubbles form on the surface (about 2 minutes), flip, and cook 1 minute more.",
+      "Repeat with the remaining batter. Serve warm with honey or fruit."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Shakshuka",
+    "category": "breakfast",
+    "emoji": "🍳",
+    "time": 30,
+    "difficulty": "medium",
+    "servings": 2,
+    "description": "Eggs poached in a rich, spiced tomato and pepper sauce. One pan, big flavour.",
+    "ingredients": [
+      "2 tbsp olive oil",
+      "1 onion, diced",
+      "1 red bell pepper, diced",
+      "3 cloves garlic, minced",
+      "1 tsp ground cumin",
+      "1 tsp sweet paprika",
+      "1 can (400 g) crushed tomatoes",
+      "4 eggs",
+      "Salt and pepper",
+      "Fresh parsley, to serve"
+    ],
+    "steps": [
+      "Heat the oil in a wide pan and soften the onion and pepper for 5 minutes.",
+      "Add the garlic, cumin, and paprika and cook for 1 minute until fragrant.",
+      "Pour in the tomatoes, season, and simmer for 10 minutes until thickened.",
+      "Make four wells in the sauce and crack an egg into each.",
+      "Cover and cook 5-8 minutes, until the whites are set but the yolks are still soft.",
+      "Scatter with parsley and serve straight from the pan with bread."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Overnight Oats with Berries",
+    "category": "breakfast",
+    "emoji": "🫐",
+    "time": 5,
+    "difficulty": "easy",
+    "servings": 1,
+    "description": "Assemble in five minutes tonight, breakfast is ready when you wake up.",
+    "ingredients": [
+      "1/2 cup (45 g) rolled oats",
+      "1/2 cup (120 ml) milk or plant milk",
+      "2 tbsp plain yoghurt",
+      "1 tsp honey or maple syrup",
+      "1/2 tsp chia seeds (optional)",
+      "Handful of mixed berries"
+    ],
+    "steps": [
+      "Combine the oats, milk, yoghurt, honey, and chia seeds in a jar.",
+      "Stir well, cover, and refrigerate overnight (or at least 4 hours).",
+      "In the morning, stir again, top with berries, and eat straight from the jar."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Creamy Mushroom Pasta",
+    "category": "mains",
+    "emoji": "🍝",
+    "time": 25,
+    "difficulty": "easy",
+    "servings": 2,
+    "description": "A weeknight classic: garlicky mushrooms in a light cream sauce over pasta.",
+    "ingredients": [
+      "200 g pasta (tagliatelle or penne)",
+      "2 tbsp olive oil",
+      "300 g mushrooms, sliced",
+      "3 cloves garlic, minced",
+      "150 ml cooking cream",
+      "30 g parmesan, grated",
+      "Salt and black pepper",
+      "Fresh parsley, chopped"
+    ],
+    "steps": [
+      "Cook the pasta in salted water according to the packet. Reserve a cup of pasta water.",
+      "Meanwhile, heat the oil in a large pan and fry the mushrooms until golden, about 6 minutes.",
+      "Add the garlic and cook 1 minute more.",
+      "Lower the heat, stir in the cream and parmesan, and season generously.",
+      "Toss the drained pasta through the sauce, loosening with pasta water if needed.",
+      "Finish with parsley and extra parmesan."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Chicken Shawarma Wraps",
+    "category": "mains",
+    "emoji": "🌯",
+    "time": 40,
+    "difficulty": "medium",
+    "servings": 4,
+    "description": "Oven-roasted, spice-marinated chicken wrapped in flatbread with garlic sauce.",
+    "ingredients": [
+      "600 g boneless chicken thighs",
+      "3 tbsp olive oil",
+      "2 tsp ground cumin",
+      "2 tsp sweet paprika",
+      "1 tsp turmeric",
+      "1 tsp ground coriander",
+      "4 cloves garlic, minced",
+      "Juice of 1 lemon",
+      "4 flatbreads",
+      "Garlic sauce, pickles, and salad, to serve"
+    ],
+    "steps": [
+      "Mix the oil, spices, garlic, and lemon juice into a marinade.",
+      "Coat the chicken and marinate at least 30 minutes (overnight is better).",
+      "Roast at 220°C for 20-25 minutes until charred at the edges and cooked through.",
+      "Rest 5 minutes, then slice thinly.",
+      "Warm the flatbreads, pile in the chicken, sauce, pickles, and salad, and roll tightly."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Baked Salmon with Lemon and Herbs",
+    "category": "mains",
+    "emoji": "🐟",
+    "time": 25,
+    "difficulty": "easy",
+    "servings": 2,
+    "description": "Foolproof oven salmon that stays moist, with a bright lemon-herb butter.",
+    "ingredients": [
+      "2 salmon fillets (about 150 g each)",
+      "2 tbsp butter, softened",
+      "1 clove garlic, minced",
+      "1 tsp chopped fresh dill",
+      "1 tsp chopped fresh parsley",
+      "1/2 lemon, sliced, plus juice",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Heat the oven to 200°C and line a tray with baking paper.",
+      "Mix the butter, garlic, herbs, and a squeeze of lemon juice into a paste.",
+      "Season the salmon, spread the herb butter over the top, and lay lemon slices on each fillet.",
+      "Bake 12-14 minutes, until the fish flakes easily with a fork.",
+      "Serve with rice or roasted vegetables."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Vegetable Stir-Fry with Noodles",
+    "category": "mains",
+    "emoji": "🥡",
+    "time": 20,
+    "difficulty": "easy",
+    "servings": 2,
+    "description": "Crunchy vegetables and noodles in a quick soy-sesame sauce. Faster than delivery.",
+    "ingredients": [
+      "150 g egg noodles",
+      "2 tbsp vegetable oil",
+      "1 carrot, cut into matchsticks",
+      "1 red bell pepper, sliced",
+      "150 g broccoli florets",
+      "2 cloves garlic, minced",
+      "1 tbsp grated ginger",
+      "3 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 tsp honey",
+      "Sesame seeds, to serve"
+    ],
+    "steps": [
+      "Cook the noodles according to the packet, drain, and set aside.",
+      "Mix the soy sauce, sesame oil, and honey into a sauce.",
+      "Heat the oil in a wok over high heat and stir-fry the carrot, pepper, and broccoli for 4 minutes.",
+      "Add the garlic and ginger and stir-fry 1 minute more.",
+      "Add the noodles and sauce and toss for 2 minutes until everything is coated and hot.",
+      "Top with sesame seeds and serve immediately."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Lentil Soup",
+    "category": "soups",
+    "emoji": "🍲",
+    "time": 35,
+    "difficulty": "easy",
+    "servings": 4,
+    "description": "A warming, inexpensive classic made from pantry staples.",
+    "ingredients": [
+      "2 tbsp olive oil",
+      "1 onion, diced",
+      "2 carrots, diced",
+      "2 cloves garlic, minced",
+      "1 tsp ground cumin",
+      "1 cup (200 g) red lentils, rinsed",
+      "1 litre vegetable stock",
+      "Juice of 1/2 lemon",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Heat the oil in a pot and soften the onion and carrot for 5 minutes.",
+      "Add the garlic and cumin and cook 1 minute.",
+      "Add the lentils and stock, bring to a boil, then simmer 20 minutes until the lentils are soft.",
+      "Blend half the soup (or all of it, for a smooth texture) and return to the pot.",
+      "Season and finish with lemon juice before serving."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Roasted Tomato Soup",
+    "category": "soups",
+    "emoji": "🍅",
+    "time": 50,
+    "difficulty": "medium",
+    "servings": 4,
+    "description": "Roasting the tomatoes first gives this soup a deep, sweet flavour.",
+    "ingredients": [
+      "1 kg ripe tomatoes, halved",
+      "1 onion, quartered",
+      "4 cloves garlic, unpeeled",
+      "3 tbsp olive oil",
+      "500 ml vegetable stock",
+      "1 tsp sugar",
+      "Salt and pepper",
+      "Fresh basil, to serve"
+    ],
+    "steps": [
+      "Heat the oven to 200°C. Spread the tomatoes, onion, and garlic on a tray, drizzle with oil, and season.",
+      "Roast 30 minutes until soft and caramelised at the edges.",
+      "Squeeze the garlic out of its skins and add everything to a pot with the stock and sugar.",
+      "Blend until smooth, then simmer 5 minutes.",
+      "Adjust the seasoning and serve with basil and crusty bread."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Chocolate Mug Cake",
+    "category": "dessert",
+    "emoji": "🍫",
+    "time": 5,
+    "difficulty": "easy",
+    "servings": 1,
+    "description": "A single-serving chocolate cake, microwaved in the mug you eat it from.",
+    "ingredients": [
+      "4 tbsp plain flour",
+      "2 tbsp cocoa powder",
+      "3 tbsp sugar",
+      "1/4 tsp baking powder",
+      "3 tbsp milk",
+      "2 tbsp vegetable oil",
+      "Small handful of chocolate chips"
+    ],
+    "steps": [
+      "In a large mug, stir together the flour, cocoa, sugar, and baking powder.",
+      "Add the milk and oil and mix until smooth, scraping the bottom corners.",
+      "Stir in the chocolate chips.",
+      "Microwave on high for 70-90 seconds, until risen and just set on top.",
+      "Let it cool for 1 minute — the centre is lava-hot — then eat with a spoon."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Classic Tiramisu",
+    "category": "dessert",
+    "emoji": "🍰",
+    "time": 30,
+    "difficulty": "hard",
+    "servings": 6,
+    "description": "The Italian coffee-and-mascarpone classic. Needs four hours to set, worth every minute.",
+    "ingredients": [
+      "3 egg yolks",
+      "75 g sugar",
+      "250 g mascarpone",
+      "200 ml whipping cream",
+      "200 ml strong coffee, cooled",
+      "200 g ladyfinger biscuits",
+      "Cocoa powder, for dusting"
+    ],
+    "steps": [
+      "Whisk the egg yolks and sugar over a pan of barely simmering water until pale and thick, about 5 minutes. Cool slightly.",
+      "Beat in the mascarpone until smooth.",
+      "Whip the cream to soft peaks and fold it gently into the mascarpone mixture.",
+      "Dip each ladyfinger briefly in the coffee — one second per side, no longer — and lay a layer in a dish.",
+      "Spread half the cream over the biscuits, then repeat with a second layer of each.",
+      "Refrigerate at least 4 hours, then dust thickly with cocoa before serving."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Hummus with Toasted Pita",
+    "category": "snacks",
+    "emoji": "🥙",
+    "time": 15,
+    "difficulty": "easy",
+    "servings": 4,
+    "description": "Silky homemade hummus in fifteen minutes — smoother than anything from a tub.",
+    "ingredients": [
+      "1 can (400 g) chickpeas, drained, liquid reserved",
+      "3 tbsp tahini",
+      "Juice of 1 lemon",
+      "1 clove garlic",
+      "2 tbsp olive oil, plus extra to serve",
+      "1/2 tsp ground cumin",
+      "Salt",
+      "2 pita breads"
+    ],
+    "steps": [
+      "Blend the tahini and lemon juice first for 1 minute — this makes the hummus extra creamy.",
+      "Add the chickpeas, garlic, olive oil, cumin, and salt, and blend until smooth.",
+      "Loosen with the reserved chickpea liquid, a spoonful at a time, to your preferred texture.",
+      "Cut the pita into triangles and toast until crisp.",
+      "Swirl the hummus onto a plate, drizzle with olive oil, and serve with the pita."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Garlic Butter Popcorn",
+    "category": "snacks",
+    "emoji": "🍿",
+    "time": 10,
+    "difficulty": "easy",
+    "servings": 2,
+    "description": "Stovetop popcorn tossed in garlic butter. Movie night, upgraded.",
+    "ingredients": [
+      "3 tbsp vegetable oil",
+      "1/2 cup (100 g) popcorn kernels",
+      "3 tbsp butter",
+      "1 clove garlic, very finely minced",
+      "1/4 tsp salt",
+      "1 tbsp grated parmesan (optional)"
+    ],
+    "steps": [
+      "Heat the oil with 3 kernels in a large lidded pot over medium-high heat.",
+      "When all 3 pop, add the rest of the kernels, cover, and shake occasionally until popping slows.",
+      "Meanwhile, melt the butter with the garlic in a small pan over low heat for 2 minutes.",
+      "Pour the popcorn into a bowl, drizzle over the garlic butter, and toss with salt and parmesan."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Beef Chili",
+    "category": "mains",
+    "emoji": "🌶️",
+    "time": 60,
+    "difficulty": "medium",
+    "servings": 6,
+    "description": "A big pot of smoky, slow-simmered chili that tastes even better the next day.",
+    "ingredients": [
+      "2 tbsp olive oil",
+      "1 onion, diced",
+      "500 g minced beef",
+      "3 cloves garlic, minced",
+      "2 tbsp chili powder",
+      "1 tsp smoked paprika",
+      "1 tsp ground cumin",
+      "1 can (400 g) crushed tomatoes",
+      "1 can (400 g) kidney beans, drained",
+      "250 ml beef stock",
+      "Salt and pepper",
+      "Rice, sour cream, and cheese, to serve"
+    ],
+    "steps": [
+      "Heat the oil in a large pot and soften the onion for 5 minutes.",
+      "Add the beef and brown it well, breaking it up as it cooks.",
+      "Stir in the garlic and spices and cook 1 minute.",
+      "Add the tomatoes, beans, and stock. Bring to a boil, then simmer uncovered 40 minutes, stirring now and then.",
+      "Season to taste and serve over rice with sour cream and cheese."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Apple Crumble",
+    "category": "dessert",
+    "emoji": "🍎",
+    "time": 45,
+    "difficulty": "easy",
+    "servings": 4,
+    "description": "Soft cinnamon apples under a golden, buttery oat topping.",
+    "ingredients": [
+      "4 large apples, peeled and sliced",
+      "2 tbsp sugar",
+      "1 tsp cinnamon",
+      "Juice of 1/2 lemon",
+      "100 g plain flour",
+      "60 g rolled oats",
+      "80 g cold butter, cubed",
+      "60 g brown sugar",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Heat the oven to 190°C. Toss the apples with the sugar, cinnamon, and lemon juice in a baking dish.",
+      "Rub the flour, oats, butter, brown sugar, and salt together with your fingertips until it looks like coarse crumbs.",
+      "Scatter the crumble evenly over the apples.",
+      "Bake 30-35 minutes until golden on top and bubbling at the edges.",
+      "Rest 10 minutes and serve warm with ice cream or custard."
+    ]
+  }
+]
