@@ -1,0 +1,13 @@
+{
+  "name": "web-dev-book-recipe-api",
+  "version": "1.0.0",
+  "description": "The recipe API used by the capstone project in the Web Development book. Read-only, no auth, CORS open.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
